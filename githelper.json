@@ -1,0 +1,13 @@
+[
+  {
+    "name": "fipmedia",
+    "folder": "",
+    "repository": "git@gitmaster.hq.aland-mariwan.de:aland/fipMedia.git",
+    "ignorePrefix": "",
+    "versions": [
+      {
+        "*": "develop"
+      }
+    ]
+  }
+]
